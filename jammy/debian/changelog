@@ -1,3 +1,9 @@
+gz-msgs10 (10.1.2-1~jammy) jammy; urgency=medium
+
+  * gz-msgs10 10.1.2-1 release
+
+ -- Addisu Z. Taddese <addisu@openrobotics.org>  Tue, 09 Apr 2024 10:12:35 -0500
+
 gz-msgs10 (10.1.1-1~jammy) jammy; urgency=medium
 
   * gz-msgs10 10.1.1-1 release
