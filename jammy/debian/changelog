@@ -1,3 +1,9 @@
+gz-msgs10 (10.4.0-1~jammy) jammy; urgency=medium
+
+  * gz-msgs10 10.4.0-1 release
+
+ -- Carlos Agüero <caguero@honurobotics.com>  Wed, 12 Aug 2026 15:33:13 +0200
+
 gz-msgs10 (10.3.2-1~jammy) jammy; urgency=medium
 
   * gz-msgs10 10.3.2-1 release
